@@ -1,2 +1,5 @@
 ADIM RESOLUSI
 - Belajar Membuat WEB
+- Belajar HTML
+- Belajar CSS
+- Belajar JavaScrips
